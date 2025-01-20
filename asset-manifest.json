@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/www.yurikaprajapati.com.np/static/css/main.c844cdbd.css",
+    "main.js": "/www.yurikaprajapati.com.np/static/js/main.eb02c44b.js",
+    "static/media/project1.png": "/www.yurikaprajapati.com.np/static/media/project1.1a5370b0a87e3654df47.png",
+    "static/media/project3.jpg": "/www.yurikaprajapati.com.np/static/media/project3.59539bc3c5c4a683ecb1.jpg",
+    "static/media/project5.jpg": "/www.yurikaprajapati.com.np/static/media/project5.c14a8cb6840d2a1257b4.jpg",
+    "static/media/contact.png": "/www.yurikaprajapati.com.np/static/media/contact.a9832e5bbf5f9a435587.png",
+    "static/media/project2.png": "/www.yurikaprajapati.com.np/static/media/project2.f9b9bebe99055870b5fc.png",
+    "static/media/banner.jpg": "/www.yurikaprajapati.com.np/static/media/banner.139a99622ac4da825d1d.jpg",
+    "index.html": "/www.yurikaprajapati.com.np/index.html",
+    "main.c844cdbd.css.map": "/www.yurikaprajapati.com.np/static/css/main.c844cdbd.css.map",
+    "main.eb02c44b.js.map": "/www.yurikaprajapati.com.np/static/js/main.eb02c44b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c844cdbd.css",
+    "static/js/main.eb02c44b.js"
+  ]
+}
