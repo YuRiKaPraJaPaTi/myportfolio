@@ -45,9 +45,10 @@ const ContactLeft = () => {
                   rel='noopener noreferrer'>
                   <FaLinkedinIn />
                 </a>
-                <span className='bannerIcon'> 
+                <a className='bannerIcon'
+                    href='https://github.com/YuRiKaPraJaPaTi'> 
                    <FaGithub />
-                </span>
+                </a>
               </div>
             </div>
           </div>

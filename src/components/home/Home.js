@@ -1,8 +1,8 @@
 import React from 'react'
 
-const Welcome = () => {
+const Home = () => {
   return (
-    <div className="h-screen flex flex-col justify-center items-center bg-bodyColor text-white">
+    <div id='home' className="h-screen flex flex-col justify-center items-center bg-bodyColor text-white">
       {/* Title */}
       <h1 className="text-5xl font-bold mb-4">Welcome to My Portfolio!</h1>
       
@@ -14,4 +14,4 @@ const Welcome = () => {
   )
 }
 
-export default Welcome
+export default Home

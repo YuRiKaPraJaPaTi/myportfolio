@@ -1,6 +1,6 @@
 import React from 'react'
 import { useTypewriter, Cursor } from  'react-simple-typewriter'
-import { FaFacebookF, FaLinkedinIn, FaGithub, FaReact } from 'react-icons/fa';
+import { FaFacebookF, FaLinkedinIn, FaGithub } from 'react-icons/fa';
 // import { SiTailwindcss, SiFigma, SiNextdotjs } from 'react-icons/si';
 
 const LeftBanner = () => {
@@ -52,9 +52,12 @@ const LeftBanner = () => {
                   rel='noopener noreferrer'>
                   <FaLinkedinIn />
               </a>
-              <span className='bannerIcon'> 
+              <a className='bannerIcon'
+                  href='https://github.com/YuRiKaPraJaPaTi'
+                  target='_blank'
+                  rel='noopener noreferrer'> 
                 <FaGithub />
-              </span>
+              </a>
             </div>
           </div>
           <div>
