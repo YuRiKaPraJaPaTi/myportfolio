@@ -26,6 +26,7 @@ const resume = () => {
     <div className="w-80 bg-gradient-to-r from-[#1e2024] to-[#23272b] flex flex-col gap-8 p-8 rounded-lg shadow-ShadowOne">
       <h3 className="text-xl text-designColor font-bold mb-4 text-center">Skills</h3>
       <ul className="list-disc list-inside space-y-2">
+        <li>HTML, CSS, JS</li>
         <li>ReactJS</li>
         <li>Tailwind CSS</li>
         <li>MySQL</li>
